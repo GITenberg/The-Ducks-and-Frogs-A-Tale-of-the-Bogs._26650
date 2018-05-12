@@ -1,0 +1,43 @@
+_repo: The-Ducks-and-Frogs-A-Tale-of-the-Bogs._26650
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Hartwell, Alonzo
+    birthdate: 1805
+    deathdate: 1873
+    gutenberg_agent_id: '32151'
+    url: http://www.gutenberg.org/2009/agents/32151
+  - agent_name: Billings, Hammatt
+    aliases:
+    - Billings, Hammett
+    - Billings
+    - Billings, Charles Howland Hammatt
+    birthdate: 1818
+    deathdate: 1874
+    gutenberg_agent_id: '32150'
+    url: http://www.gutenberg.org/2009/agents/32150
+    wikipedia: http://en.wikipedia.org/wiki/Hammatt_Billings
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fire-Fly, Fanny
+    gutenberg_agent_id: '32149'
+    url: http://www.gutenberg.org/2009/agents/32149
+description: ''
+gutenberg_issued: '2008-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Frogs -- Juvenile poetry'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Ducks -- Juvenile poetry'
+title: The Ducks and Frogs, a Tale of the Bogs.
+url: http://www.gutenberg.org/ebooks/26650
