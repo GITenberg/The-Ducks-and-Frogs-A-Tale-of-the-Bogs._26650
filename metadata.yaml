@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '32149'
     url: http://www.gutenberg.org/2009/agents/32149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26650#The-Ducks-and-Frogs-A-Tale-of-the-Bogs.
 gutenberg_issued: '2008-09-17'
 gutenberg_type: Text
 identifiers:
